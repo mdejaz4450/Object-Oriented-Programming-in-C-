@@ -14,7 +14,7 @@ public:
 
 }; 
 int main(){
-    Employee employee1; 
+    Employee employee1; //object
     employee1.Name = "Mr.spkie";
     employee1.Company = "YouTube";
     employee1.Age = 21;
