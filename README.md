@@ -1,4 +1,4 @@
-# Object-Oriented-Programming-in-C-
+# Object-Oriented-Programming-in-C++-
 Object Oriented Programming (OOP) is commonly used when writing code with C++ .
 Here is the topics 
 
