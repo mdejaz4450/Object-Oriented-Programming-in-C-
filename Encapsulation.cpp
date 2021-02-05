@@ -23,14 +23,15 @@ private:
     int h;
 
     public:
-
-    void setValue(int x, int y, int z){
+    void setValue(int x, int y, int z)
+    {
         l = x;
         b = y;
         h = z;
     }
     
-    int volume(){
+    int volume()
+    {
         cout<<"Length = " <<l<<endl;
         cout<<"Breadth = " <<b<<endl;
         cout<<"Heigth = " <<h<<endl;
