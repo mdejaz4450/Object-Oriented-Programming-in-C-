@@ -30,7 +30,7 @@ private:
         h = z;
     }
     
-    int volume()
+    void volume()
     {
         cout<<"Length = " <<l<<endl;
         cout<<"Breadth = " <<b<<endl;
