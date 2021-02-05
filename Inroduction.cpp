@@ -19,8 +19,6 @@ int main(){
     employee1.Company = "YouTube";
     employee1.Age = 21;
 
-   // employee1.IntroduceYourself(employee1.Name, employee1.Company, employee1.Age);
-
- 
+    employee1.IntroduceYourself(employee1.Name, employee1.Company, employee1.Age);
     return 0;
 }
