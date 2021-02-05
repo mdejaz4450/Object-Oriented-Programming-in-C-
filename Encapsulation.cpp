@@ -35,12 +35,7 @@ private:
         cout<<"Breadth = " <<b<<endl;
         cout<<"Heigth = " <<h<<endl;
         cout<<"Volume = " <<l*b*h<<endl;
-        
-        return 0;
-
     }
-
-  
 };
 
 int main()
@@ -48,8 +43,6 @@ int main()
     EncapsulationDemo encap;
 
     encap.setValue(4,5,8);
-    encap.volume();
-   
-
+    encap.volume(); 
     return 0;
 }
